@@ -1,0 +1,2 @@
+The text here is to test how to stage and save changes in git
+Hello Odin. this is my first repo with the Odin Project
